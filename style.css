@@ -1,3 +1,19 @@
 body {
-    background: LightBlue;
+    background: #38ff70;
+}
+
+font {
+  font-size:d;
+  color: #000000;
+}
+
+
+
+#uchePicture {
+  float: left;
+}
+
+
+h2{
+  background-color: white;
 }
